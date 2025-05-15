@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Projetos\projeto-colecao-jogos"/>
 			<item value="C:\Projetos\dslist"/>
 		</list>
 		<list key="projectNameTemplate">
